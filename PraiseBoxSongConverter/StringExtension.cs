@@ -2,7 +2,7 @@
 
 namespace PraiseBoxSongConverter
 {
-  internal static class Extension
+  internal static class StringExtension
   {
     public static IEnumerable<string> SplitToLines(this string input)
     {
