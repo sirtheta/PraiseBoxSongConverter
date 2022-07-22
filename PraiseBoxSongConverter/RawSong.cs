@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PraiseBoxSongConverter
+﻿namespace PraiseBoxSongConverter
 {
   /// <summary>
   /// Class to extract the raw song from DB

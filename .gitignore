@@ -232,4 +232,6 @@ _Pvt_Extensions
 /.dotnet
 
 *.pbd
+*.ldb
 *.tex
+*.txt
